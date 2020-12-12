@@ -1,6 +1,3 @@
-[submodule "tmux-solarized"]
-	path = tmux-solarized
-	url = https://github.com/mkoga/tmux-solarized
 [submodule "tmux-sensible"]
 	path = tmux-sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
